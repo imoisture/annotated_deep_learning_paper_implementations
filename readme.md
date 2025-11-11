@@ -20,6 +20,7 @@ implementations almost weekly.
 
 #### ✨ [Transformers](https://nn.labml.ai/transformers/index.html)
 
+* [JAX implementation](https://nn.labml.ai/transformers/jax_transformer/index.html)
 * [Multi-headed attention](https://nn.labml.ai/transformers/mha.html)
 * [Triton Flash Attention](https://nn.labml.ai/transformers/flash/index.html)
 * [Transformer building blocks](https://nn.labml.ai/transformers/models.html) 

@@ -24,6 +24,7 @@ implementations.
 
 #### ✨ [Transformers](transformers/index.html)
 
+* [JAX implementation](transformers/jax_transformer/index.html)
 * [Multi-headed attention](transformers/mha.html)
 * [Triton Flash Attention](transformers/flash/index.html)
 * [Transformer building blocks](transformers/models.html)
